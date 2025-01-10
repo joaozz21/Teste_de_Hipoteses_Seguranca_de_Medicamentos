@@ -1,4 +1,4 @@
-# Teste_de_Hipóteses_Segurança_de_Medicamentos
+# Teste de Hipóteses: Segurança de Medicamentos
 Este projeto utilizou testes de hipóteses, incluindo testes Z de proporção e teste qui-quadrado de independência.
 
 Descrição do Projeto: Os medicamentos farmacêuticos tornaram-se uma parte essencial da nossa saúde. Portanto, eles precisam ser seguros, com poucos ou nenhum efeito adverso.
